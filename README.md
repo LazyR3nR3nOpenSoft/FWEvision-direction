@@ -2,7 +2,7 @@
 
 This repo contains the architectural design of FWE (Flow Works Engine) — the initial docs covering how the program may be built and how it's intended to work.
 
-Note: Yes there is now a Repo for the skeleton that Honestly that was made with Claude, I initially plan it to actually make the code at least rough one and let the community polished it, but well, as I realized, I needed actually people to help this happened, It's just WAYYYY to big for me, But I am gonna do my absolute best to still contribute on it, I want to  use it, who wouldn't want free software? and for this caliber? yeah well, I lack skill soo hope you understand. -LazyR3nR3n
+Note: Yes there is now a Repo for the skeleton that Honestly that was made with Claude, I initially plan it to actually make the code(with claude of course) at least rough one and let the community polished it, but well, as I realized, I needed actual people to help this happened. It's just WAYYYY to big for me, But I am gonna do my absolute best to still contribute on it, I want to  use it, who wouldn't want free software? and for this caliber? yeah well, I lack skill soo hope you understand. -LazyR3nR3n
 
 > A few things to note: there is a business model included. Yes. But that's only because if FWE ever gets adopted, having that design in mind early makes things easier. It can be removed if the community suggests it shouldn't be there. **You guys are the developers — it's going to be your work. I'm just the visionary.**
 
