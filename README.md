@@ -15,3 +15,13 @@ I'm a 20 year old with no CS degree, starting BS Entrepreneurship because that's
 I don't have a vocabulary for coding, well maybe a bit, but mostly when it comes to the open source projects that form FWE's backbone, I needed help figuring it out. There is also a developing constraints that I, don't have a good machine, just a old laptop that runs windows 10, and I am scared it might suddenly failed on me mid development, literally yesterday before I decided to leave it to the actual developers hand, my laptop keyboard just spammed T for some reason and I need to physically pri up the T key on my laptop to stop it. it's fine for now since It stop because I blow real hard on it, but who knows what could happen mid development? plus it's literal second hand Fujitsu Lifebook A series, with just an i5 7th generation, or was it 8th? Idk, either way it's old and the screen is literally pink and I have to use our family TV (that I don't have access always Cause I am not the only me who use the TV) to not make my eyes not get burn with pink and green lines covering the whole thing except a strip at the top that have only 5 percent full color, even less probably). 
 
 This project started from me just wanting an accessible CAD and simulation tool — in one program — with a physics-driven data approach to produce somewhat realistic results. In theory, yes in theory, it is possible. I do believe it can still happen. And if a specific approach doesn't work — please suggest it.
+
+
+---
+ 
+#Support
+
+If you want to support the vision, the donations are much appreciated:
+
+
+☕ [Ko-fi — LazyR3nR3n](https://ko-fi.com/lazyr3nr3n)
